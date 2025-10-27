@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Background circle -->
+  <circle cx="150" cy="150" r="150" fill="#e0e0e0"/>
+  
+  <!-- Stylized person silhouette -->
+  <circle cx="150" cy="120" r="60" fill="#a0a0a0"/>
+  <path d="M150 190 Q 90 190 70 260 L 230 260 Q 210 190 150 190 Z" fill="#a0a0a0"/>
+  
+  <!-- Subtle pattern overlay -->
+  <rect x="0" y="0" width="300" height="300" fill="url(#pattern)" opacity="0.1"/>
+  
+  <!-- Pattern definition -->
+  <defs>
+    <pattern id="pattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="1" fill="#808080"/>
+    </pattern>
+  </defs>
+</svg>
