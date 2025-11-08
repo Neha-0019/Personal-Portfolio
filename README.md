@@ -39,5 +39,4 @@ This is a simple personal portfolio website built with HTML and CSS. It showcase
 - Add a contact form
 - Include a resume download option
 
-## License
-Feel free to use this template for your personal portfolio.
+
